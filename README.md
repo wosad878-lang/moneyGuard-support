@@ -2,6 +2,6 @@
 
 테스트 APK와 사용자 지원 이슈를 제공하는 공개 저장소입니다.
 
-- 최신 테스트 APK: Releases에서 `androidApp-debug.apk`를 내려받습니다.
+- 최신 테스트 APK: [`androidApp-debug.apk`](apk/androidApp-debug.apk)를 내려받습니다.
 - 이 APK는 정식 배포 전 베타 검증용입니다.
 - 금융 알림 원문, 금액, 가맹점, 카드·계좌 식별자는 진단 전송 대상이 아닙니다.
